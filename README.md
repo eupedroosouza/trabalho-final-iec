@@ -5,3 +5,4 @@
 ## Nicholas Cortez
 
 ## Pedro Souza
+- Banco de dados
