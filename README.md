@@ -1,7 +1,7 @@
 # trabalho-final-iec
 
-# Pedro Antônio
+## Pedro Antônio
 
-# Nicholas Cortez
+## Nicholas Cortez
 
-# Pedro Souza
+## Pedro Souza
