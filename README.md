@@ -5,3 +5,5 @@
 ## Nicholas Cortez
 
 ## Pedro Souza
+
+## Gabriel Leite
