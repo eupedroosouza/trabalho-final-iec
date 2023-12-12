@@ -6,6 +6,7 @@
 Modelagem do banco de dados.
 
 ## Pedro Souza
+- Nota fiscal
 - Banco de dados
 
 ## Gabriel Leite
