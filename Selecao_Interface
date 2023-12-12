@@ -1,0 +1,33 @@
+#include <stdio.h>
+
+int main(){
+int opt;
+printf("Digite uma variação da Interace, 1, 2, 3, 4, ou 5: ");
+    scanf("%i", &opt);
+    
+    if(opt == 1){
+        printf("A variação da interface escolhida pelo usuário foi a variante 1.");
+        return 0;
+    }
+    if(opt == 2){
+        printf("A variação da interface escolhida pelo usuário foi a variante 2.");
+        return 0;
+    }
+    if(opt == 3){
+        printf("A variação da interface escolhida pelo usuário foi a variante 3.");
+        return 0;
+    }
+    if(opt == 4){
+        printf("A variação da interface escolhida pelo usuário foi a variante 4.");
+        return 0;
+    }
+    if(opt == 5){
+        printf("A variação da interface escolhida pelo usuário foi a variante 5.");
+        return 0;
+    }
+    
+    else{
+        printf("Esta opção é inválida. Digite um número de 1 a 5.");
+        return 0;
+    }
+}
