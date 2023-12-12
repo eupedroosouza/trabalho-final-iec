@@ -6,5 +6,6 @@
 Modelagem do banco de dados.
 
 ## Pedro Souza
+- Banco de dados
 
 ## Gabriel Leite
